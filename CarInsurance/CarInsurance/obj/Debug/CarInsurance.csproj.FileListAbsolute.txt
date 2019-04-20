@@ -1,0 +1,12 @@
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\bin\Debug\CarInsurance.exe.config
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\bin\Debug\CarInsurance.exe
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\bin\Debug\CarInsurance.pdb
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csprojResolveAssemblyReference.cache
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.Properties.Resources.resources
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.GenerateResource.Cache
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.exe
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.Form1.resources
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.FormCar.resources
+C:\Users\Computer\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.FormInsurance.resources
