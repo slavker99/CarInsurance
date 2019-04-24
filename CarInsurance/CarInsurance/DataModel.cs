@@ -56,7 +56,7 @@ namespace CarInsurance
         /// <summary>
         /// Информация об авто
         /// </summary>
-        public Car[] Cars { get; set; }
+        public List<Car> Cars { get; set; }
     }
 
     public class InsuranceCar
@@ -76,7 +76,7 @@ namespace CarInsurance
         /// <summary>
         /// Дополнительные водители
         /// </summary>
-        public Driver[] Drivers { get; set; }
+        public List<Driver> Drivers { get; set; }
     }
 
     public class Name
