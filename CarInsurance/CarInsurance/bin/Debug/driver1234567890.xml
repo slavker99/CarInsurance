@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<Driver xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DriverName>
+    <Surname>Козлевич</Surname>
+    <Firstname>Адам</Firstname>
+    <Patronymic>Казимирович</Patronymic>
+  </DriverName>
+  <BirthTime>1880-02-12T23:09:09</BirthTime>
+  <DriversLicenceNum>1234567890</DriversLicenceNum>
+  <DateStartDriving>2019-05-12T23:15:52.527503+05:00</DateStartDriving>
+  <Cars>
+    <Car>
+      <CarName>Антилопа Гну</CarName>
+      <CarCategory>B</CarCategory>
+      <YearofRelease>1920</YearofRelease>
+      <VIN>123456789ABC</VIN>
+      <CarNumber>А123БВ12</CarNumber>
+      <PowerEngine>20</PowerEngine>
+    </Car>
+  </Cars>
+</Driver>

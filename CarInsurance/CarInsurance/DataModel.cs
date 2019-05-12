@@ -19,7 +19,7 @@ namespace CarInsurance
         /// <summary>
         /// Год выпуска Машины
         /// </summary>
-        public string YearofRelease { get; set; }
+        public int YearofRelease { get; set; }
         /// <summary>
         /// VIN-номер
         /// </summary>
@@ -32,7 +32,10 @@ namespace CarInsurance
         /// Мощность двигателя
         /// </summary>
         public double PowerEngine { get; set; }
-
+        public static bool Load { get; set; }
+        public static Car ActiveCar { get; set; }
+        public Car()
+        { }
     }
 
     public class Driver
@@ -57,6 +60,10 @@ namespace CarInsurance
         /// Информация об авто
         /// </summary>
         public List<Car> Cars { get; set; }
+        public static bool Load { get; set; }
+        public static Driver ActiveDriver { get; set; }
+        public Driver() 
+            {}
     }
 
     public class InsuranceCar
@@ -77,6 +84,7 @@ namespace CarInsurance
         /// Дополнительные водители
         /// </summary>
         public List<Driver> Drivers { get; set; }
+        static public InsuranceCar ActiveInsurance { get; set; }
     }
 
     public class Name
@@ -84,6 +92,14 @@ namespace CarInsurance
         public string Surname { get; set; }
         public string Firstname { get; set; }
         public string Patronymic { get; set; }
+        public Name(string surname, string firstname, string patronymic)
+        {
+            Surname = surname;
+            Firstname = firstname;
+            Patronymic = patronymic;
+        }
+        public Name()
+        { }
     }
 
     public enum CarType
